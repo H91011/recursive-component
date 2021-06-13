@@ -4,7 +4,7 @@ You can see in `./recursive-component.js`
 
 ## It creates components as recursive with given array
 
-<code>
+```
 //given array 
 const styles = [
   {text: 'text1',color: 'red'},
@@ -14,7 +14,7 @@ const styles = [
   {text: 'text5',color: 'violet'},
   {text: 'text6',color: 'cyan'},
 ]
-</code>
+```
 
 ## Result
 
