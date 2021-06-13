@@ -1,3 +1,28 @@
+# Implement recursive component with react hook
+
+You can see in `./recursive-component.js`
+
+## It creates components as recursive with given array
+
+<code>
+//given array 
+const styles = [
+  {text: 'text1',color: 'red'},
+  {text: 'text2',color: 'green'},
+  {text: 'text3',color: 'blue'},
+  {text: 'text4',color: 'crimson'},
+  {text: 'text5',color: 'violet'},
+  {text: 'text6',color: 'cyan'},
+]
+</code>
+
+## Result
+
+![image info](./recursive-component.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
